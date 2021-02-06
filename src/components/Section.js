@@ -7,12 +7,12 @@ const Section = styled.section`
     align-items: center;   
 
     img{
+        margin: 5px 0;
         width: 200px;
         height: 200px;
     }
 
     p{
-        margin-top: 5px;
         font-size: 1.4em;
         font-weight: 400;
     }
