@@ -7,7 +7,7 @@ const Section = styled.section`
     align-items: center;   
 
     img{
-        margin: 5px 0;
+        margin: 10px 0;
         width: 200px;
         height: 200px;
     }
